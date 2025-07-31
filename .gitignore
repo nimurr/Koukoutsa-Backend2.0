@@ -12,7 +12,7 @@ coverage
 
 app.log*
 
-.env
 
 /public
 /dist
+config.bat
